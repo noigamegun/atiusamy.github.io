@@ -4,7 +4,9 @@ description: A quick demo!
 author: cassidyjames
 ---
 
-WeLET ME TEST THISecreate a tweet card locally, making sure to follow the [Twitter Display Requirements](https://developer.twitter.com/en/developer-terms/display-requirements). Check it out:
+I really hope I am still alive.....
+
+Anything down here is from Twitter embed from ages ago:
 
 ```liquid
 {% raw %}{% include twitter-card.html
