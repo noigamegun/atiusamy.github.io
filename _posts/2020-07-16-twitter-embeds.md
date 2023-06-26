@@ -4,7 +4,7 @@ description: A quick demo!
 author: cassidyjames
 ---
 
-We wanted to quote/embed a tweet in our blog, but don't like the idea of pulling in JS or even an iframe from Twitter's servers. So instead, we recreate a tweet card locally, making sure to follow the [Twitter Display Requirements](https://developer.twitter.com/en/developer-terms/display-requirements). Check it out:
+WeLET ME TEST THISecreate a tweet card locally, making sure to follow the [Twitter Display Requirements](https://developer.twitter.com/en/developer-terms/display-requirements). Check it out:
 
 ```liquid
 {% raw %}{% include twitter-card.html
