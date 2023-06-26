@@ -7,17 +7,14 @@ sponsor_inquiry: https://github.com/sponsors/elementary?frequency=one-time
 analytics: https://plausible.io/blog.elementary.io
 
 facebook: elementaryos
-mastodon: elementary
+mastodon: atius
 reddit: elementaryos
-twitter: elementary
+twitter: atiusamy
 
 authors:
-  aroman:
-    name: "Avi Romanoff"
-    description: "Enthusiasm Evangelist"
-  cassidyjames:
-    name: Cassidy James Blaede
-    description: "Co-founder & CXO"
+  atius:
+    name: Atius
+    description: "someone I imagined"
     gravatar: 41275ecc8271aca852ce2c0ff72d2610 # Gravatar md5 hash
   danrabbit:
     name: Danielle Foré
