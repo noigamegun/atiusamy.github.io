@@ -22,7 +22,7 @@ As you know, Minecraft Bedrock despite being a crossplay platform is not availab
 
 ### Minecraft Bedrock Launcher
 
-![Download it on Flathub]('https://github.com/AtiusAmy/atiusamy.github.io/blob/master/images/Screenshot%202023-06-26%20at%2009-06-32%20Minecraft%20Bedrock%20Launcher%20Flathub.png')
+![Download it on Flathub](/images/BEDROCKLAUNCHER.png)
 
 <figcaption>A pretty nice application</figcaption>
 </figure>
