@@ -17,15 +17,15 @@ You can now both get two Minecraft version for free! Now you don’t have to cho
 
 <p align="center"><iframe style="width:75%;height:300px;" src="https://www.youtube.com/embed/jeFiSXEC1Ps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-As you know, Minecraft Bedrock despite being a crossplay platform is not available on two platforms that Minecraft Java is on, Mac and Linux, or Steam Deck which I will refer to as Linux from now on so I don’t have to keep saying “And Steam Deck”, and in this video, we will try to fix that and here are a couple of ways you can run Minecraft Bedrock on Mac and Linux, and some suggestions for Mojang if they want to fix this.
+As you know, Minecraft Bedrock despite being a crossplay platform is not available on two platforms that Minecraft Java is on, Mac and Linux, or Steam Deck which I will refer to as Linux from now on so I don’t have to keep typing “And Steam Deck”, and in this article, we will try to fix that and here are a couple of ways you can run Minecraft Bedrock on Mac and Linux, and some suggestions for Mojang if they want to fix this.
 <figure markdown="1">
 
-![Parrot](https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif)
+![Download it on Flathub](https://github.com/AtiusAmy/atiusamy.github.io/blob/master/images/Screenshot%202023-06-26%20at%2009-06-32%20Minecraft%20Bedrock%20Launcher%20Flathub.png)
 
-<figcaption>A pretty parrot</figcaption>
+<figcaption>A pretty nice application</figcaption>
 </figure>
 
-See, isn't that nice. You can also put them halvsies (`.half`) or… thirdsies (`.third`)?
+The first and easiest option is the Minecraft Bedrock Launcher. On Linux, you just download it from your store, but if you’re on Ubuntu or any distro that doesn’t ship Flathub by default just search for a tutorial online, It’s a few command lines. As for Mac, All you have to do is just download it from their Git Hub. Just click the DMG and install it, press open anyway on your security and privacy settings and you could just play. One thing to note you have to own it on the Google Play store. You could also download the AppImage on Linux here, which will work with a touch screen, but if you want that on Linux I recommend the next solution right after this. Now for the pros and cons of this. The mouse and Keyboard work properly, the controller works on Linux (Didn’t work on Mac for me but it might be a driver issue), and the skin now works (It didn’t before) for the cons: It might not be up to date all the time, but you could always press show incompatible versions. It might be buggy with that.
 
 <figure class="half" markdown="1">
 
