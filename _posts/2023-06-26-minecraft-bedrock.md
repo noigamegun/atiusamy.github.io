@@ -44,7 +44,7 @@ Running Android, you could either use Emulators, Virtual Machine, and Containers
 
 ### Dual-Booting
 
-![Parrot](https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif)
+![ew](/images/Bootcamp.jpg)
 
 <figcaption>ew....</figcaption>
 </figure>
