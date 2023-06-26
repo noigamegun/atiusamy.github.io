@@ -49,7 +49,7 @@ Running Android, you could either use Emulators, Virtual Machine, and Containers
 <figcaption>ew....</figcaption>
 </figure>
 
-Dual Booting. I hate this solution, but it doesn’t mean that it’s not for you! Dual-booting isn’t available on M1 Macs, So keep that in mind, at least until Asahi upstream everything to the linux kernel and you can dual-boot Android on it or something. Anyways on Macs and Linux PCs, You can either dual-boot Android x86 or Bootcamp with Windows. Ray tracing on work on Windows though. The pros are basically everything works and controls, everything works as it should… which make sense because you’re on an operating system that natively supports it. The cons however, is that you have to stop everything you’re doing. Reboot your PC. The start the game on a different operating system, then boot it back after playing, not very practical in my opinion.\
+Dual Booting. I hate this solution, but it doesn’t mean that it’s not for you! Dual-booting isn’t available on M1 Macs, So keep that in mind, at least until Asahi upstream everything to the linux kernel and you can dual-boot Android on it or something. Anyways on Macs and Linux PCs, You can either dual-boot Android x86 or Bootcamp with Windows. Ray tracing on work on Windows though. The pros are basically everything works and controls, everything works as it should… which make sense because you’re on an operating system that natively supports it. The cons however, is that you have to stop everything you’re doing. Reboot your PC. The start the game on a different operating system, then boot it back after playing, not very practical in my opinion.
 
 <figure class="half" markdown="1">
 
