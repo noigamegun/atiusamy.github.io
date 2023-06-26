@@ -49,44 +49,10 @@ Running Android, you could either use Emulators, Virtual Machine, and Containers
 <figcaption>ew....</figcaption>
 </figure>
 
-Dual Booting. I hate this solution, but it doesn’t mean that it’s not for you! Dual-booting isn’t available on M1 Macs, So keep that in mind, at least until Asahi upstream everything to the linux kernel and you can dual-boot Android on it or something. Anyways on Macs and Linux PCs, You can either dual-boot Android x86 or Bootcamp with Windows. Ray tracing on work on Windows though. The pros are basically everything works and controls, everything works as it should… which make sense because you’re on an operating system that natively supports it. The cons however, is that you have to stop everything you’re doing. Reboot your PC. The start the game on a different operating system, then boot it back after playing, not very practical in my opinion.
-
-<figure class="half" markdown="1">
-
-### Conclusion
+Dual Booting. I hate this solution, but it doesn’t mean that it’s not for you! Dual-booting isn’t available on M1 Macs, So keep that in mind, at least until Asahi upstream everything to the linux kernel and you can dual-boot Android on it or something. Anyways on Macs and Linux PCs, You can either dual-boot Android x86 or Bootcamp with Windows. Ray tracing on work on Windows though. The pros are basically everything works and controls, everything works as it should… which make sense because you’re on an operating system that natively supports it. The cons however, is that you have to stop everything you’re doing. Reboot your PC. The start the game on a different operating system, then boot it back after playing, not very practical in my opinion.### Conclusion
 
 Me personally, I use both Waydroid and the Bedrock Launcher. Waydroid works fine for checking out updates, walking around and Bedrock launcher is great for playing Eggwars, Lucky Blocks, and Skywars with my cousins. As for how Mojang can fix this issue, There are three solutions in my opinion. First, Integrate it into the official Minecraft Launcher and make it actually playable here. I mean they use the same account now. The other solution is to put it on Steam like Minecraft Dungeons and Minecraft Legends, but they would have to still port it for Mac, but they have Minecraft Education Edition on Mac, I doubt it would be hard. But on Linux, you could just use Proton. Which means you would have to pay for it again, but it’s better than no apps. The third solution is to put it on their respective stores, Paying for Linux apps isn’t possible in the store yet, but Flathub developers are working on it. So it might work soon? And on Mac, there is the App Store. Just keep hoping they will add it later! 
 
-Okay so that was a little more complicated than I'd like, but it actually works. Neato 🌯️.
 
-And of course, pressing <kbd>⌘</kbd> + <kbd>Shift</kbd> will do absolutely nothing. Thought you'd like to know.
-
-And we need to test code blocks like this one:
-
-```vala
-public class MyApp : Gtk.Application {
-
-    public MyApp () {
-        Object (application_id: "com.github.myteam.myapp",
-        flags: ApplicationFlags.FLAGS_NONE);
-    }
-
-    protected override void activate () {
-        var window = new Gtk.ApplicationWindow (this);
-        window.title = "MyApp";
-        window.set_default_size (1024, 768);
-        window.show_all ();
-    }
-
-    public static int main (string[] args) {
-        var app = new MyApp ();
-        return app.run (args);
-    }
-}
-```
-
-## But wait, there's more!
-
-To help contribute, visit [github.com/elementary/blog-template](https://github.com/elementary/blog-template)
-
+<figure class="half" markdown="1">
 
