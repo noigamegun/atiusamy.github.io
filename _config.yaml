@@ -3,8 +3,7 @@ description: "I make videos, and sometimes write article"
 permalink: /:title/
 theme-color: "#006fff"
 gravatar: d43980d430448a2c84749b82af8eb76a
-sponsor_inquiry: https://github.com/sponsors/elementary?frequency=one-time
-analytics: https://plausible.io/blog.elementary.io
+
 
 mastodon: atius
 twitter: atiusamy
