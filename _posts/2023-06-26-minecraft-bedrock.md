@@ -29,8 +29,6 @@ As you know, Minecraft Bedrock despite being a crossplay platform is not availab
 
 The first and easiest option is the Minecraft Bedrock Launcher. On Linux, you just download it from your store, but if you’re on Ubuntu or any distro that doesn’t ship Flathub by default just search for a tutorial online, It’s a few command lines. As for Mac, All you have to do is just download it from their Git Hub. Just click the DMG and install it, press open anyway on your security and privacy settings and you could just play. One thing to note you have to own it on the Google Play store. You could also download the AppImage on Linux here, which will work with a touch screen, but if you want that on Linux I recommend the next solution right after this. Now for the pros and cons of this. The mouse and Keyboard work properly, the controller works on Linux (Didn’t work on Mac for me but it might be a driver issue), and the skin now works (It didn’t before) for the cons: It might not be up to date all the time, but you could always press show incompatible versions. It might be buggy with that.
 
-<figure class="half" markdown="1">
-
 ### Running Android
 
 ![Download it on Flathub](/images/Waydroid.png)
@@ -39,8 +37,6 @@ The first and easiest option is the Minecraft Bedrock Launcher. On Linux, you ju
 </figure>
 
 Running Android, you could either use Emulators, Virtual Machine, and Containers. On Mac, my preferred choice would be bluestacks and on Linux would be Waydroid. It’s no secret that I am a big fan of Waydroid, here are some pros and cons. The first pro for all of them is that you are running Android. You get the latest update, you get marketplace, basically full functionality…. Well, that’s not entirely true. For the cons, The controls are one. If you’re using Waydroid everything should work. As for Bluestacks, the control for me are just bad. The Bluestacks version on MacOS is on version 4, which you have to manually map the control which is annoying. So yeah, Those are options
-
-<figure class="half" markdown="1">
 
 ### Dual-Booting
 
