@@ -1,5 +1,5 @@
 ---
-title: Sponsor Post
+title: Am I still alive?
 description: Thank you to our sponsors
 author: cassidyjames
 image: https://source.unsplash.com/featured?money
@@ -15,4 +15,4 @@ sponsor:
   hook: "They're not real, but we won't let that stop them from throwing money at us."
 ---
 
-This is a test post to demonstrate how the sponsors slot works. It's defined in the front-matter, and then will show on this post in perpetuity.
+WELCOME TO THE WORLD OF TOMORROW
