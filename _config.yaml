@@ -1,14 +1,12 @@
-title: "elementary Blog"
-description: "We design and develop the fast, open, and privacy-respecting replacement for Windows and macOS"
+title: "Atius"
+description: "I make videos, and sometimes write article"
 permalink: /:title/
-theme-color: "#64baff"
-gravatar: eaa3cc978770998ea2bd4382935bf0f4
+theme-color: "#006fff"
+gravatar: d43980d430448a2c84749b82af8eb76a
 sponsor_inquiry: https://github.com/sponsors/elementary?frequency=one-time
 analytics: https://plausible.io/blog.elementary.io
 
-facebook: elementaryos
 mastodon: atius
-reddit: elementaryos
 twitter: atiusamy
 
 authors:
@@ -16,38 +14,6 @@ authors:
     name: Atius
     description: "someone I imagined"
     gravatar: d43980d430448a2c84749b82af8eb76a # Gravatar md5 hash
-  danrabbit:
-    name: Danielle Foré
-    description: "Founder & CEO"
-    gravatar: 1f3cc76b99b5d0dae8381a23f52ea96d
-  davidmhewitt:
-    name: David Hewitt
-    description: "Desktop Engineer"
-    gravatar: 80b17b7bacb372004600451a7eb40b35
-  joeysneddon:
-    name: Joey Sneddon
-    description: OMG! Ubuntu!
-    gravatar: 2623034032315d5cf0bcf5e213ff5547
-  karensophia:
-    name: Karen Sophia
-    description: "Customer Engagement"
-    # gravatar: e0ac5d5e717da67a36ac72adf235bc42
-  kgrubb:
-    name: Keli Grubb
-    description: Developer
-    gravatar: 8e8d16d136c38f3a28820490c17928d1
-  linuxplusplus:
-    name: Eric Londo
-    description: "Editor of Linux++"
-    gravatar: e9c9929bf9d55d9d3642524e4bde3a2f
-  peteruithoven:
-    name: Peter Uithoven
-    description: "Front-end Developer"
-    gravatar: f39b1485b28be1dc2b98f269235218bc
-  the-linux-experiment:
-    name: Nick
-    description: "The Linux Experiment"
-    gravatar: 264a76e5b40f4bb39787f617b5164b34
   anonymous:
     name: "Unknown Author"
 
