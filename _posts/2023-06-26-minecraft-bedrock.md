@@ -2,7 +2,7 @@
 title:  "How to play Minecraft Bedrock on Mac/Linux"
 description: "Minecraft Bedrock is not really a crossplay platform"
 author: atius
-image: /images/'Unix Bedrock2.png'
+image: /images/UnixBedrock2.png
 tags:
   - minecraft
   - bedrock
@@ -31,13 +31,12 @@ The first and easiest option is the Minecraft Bedrock Launcher. On Linux, you ju
 
 <figure class="half" markdown="1">
 
-![Parrot](https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif)
-![Parrot](https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif)
+![Running Android](/images/Waydroid.png)
 
-<figcaption>A couple of cool parrots</figcaption>
+<figcaption>Waydroid is the best tool on Linux</figcaption>
 </figure>
 
-I really hope you don't have light- or motion-sensitivity or something, because this page is becoming painful.
+Running Android, you could either use Emulators, Virtual Machine, and Containers. On Mac, my preferred choice would be bluestacks and on Linux would be Waydroid. It’s no secret that I am a big fan of Waydroid, here are some pros and cons. The first pro for all of them is that you are running Android. You get the latest update, you get marketplace, basically full functionality…. Well, that’s not entirely true. For the cons, The controls are one. If you’re using Waydroid everything should work. As for Bluestacks, the control for me are just bad. The Bluestacks version on MacOS is on version 4, which you have to manually map the control which is annoying. So yeah, Those are options
 
 <figure class="third" markdown="1">
 
