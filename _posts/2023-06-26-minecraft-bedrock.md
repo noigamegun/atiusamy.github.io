@@ -1,7 +1,7 @@
 ---
 title:  "How to play Minecraft Bedrock on Mac/Linux"
 description: "Minecraft Bedrock is not really a crossplay platofmr"
-author: Atius
+author: atius
 image: https://source.unsplash.com/featured?test
 tags:
   - minecraft
@@ -11,14 +11,13 @@ tags:
   - mac
 ---
 
-ou now both get two Minecraft version for free! Now you don’t have to choose!
+You can now both get two Minecraft version for free! Now you don’t have to choose!
 
 ### Images
 
-![Only for Windows :p](https://imgur.com/a/NJcj9DN)
+![Only for Windows :p](https://raw.githubusercontent.com/AtiusAmy/atiusamy.github.io/master/images/Screenshot%20from%202023-06-26%2008-43-06.png)
 
-Have a parrot for your troubles. Better yet, have a parrot in a `figure` with a `figcaption` for nicer layout!
-
+As you know, Minecraft Bedrock despite being a crossplay platform is not available on two platforms that Minecraft Java is on, Mac and Linux, or Steam Deck which I will refer to as Linux from now on so I don’t have to keep saying “And Steam Deck”, and in this video, we will try to fix that and here are a couple of ways you can run Minecraft Bedrock on Mac and Linux, and some suggestions for Mojang if they want to fix this.
 <figure markdown="1">
 
 ![Parrot](https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif)
