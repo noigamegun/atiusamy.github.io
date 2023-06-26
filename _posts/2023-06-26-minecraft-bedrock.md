@@ -31,25 +31,27 @@ The first and easiest option is the Minecraft Bedrock Launcher. On Linux, you ju
 
 <figure class="half" markdown="1">
 
-![Running Android](/images/Waydroid.png)
+### Running Android
+
+![Download it on Flathub](/images/Waydroid.png)
 
 <figcaption>Waydroid is the best tool on Linux</figcaption>
 </figure>
 
 Running Android, you could either use Emulators, Virtual Machine, and Containers. On Mac, my preferred choice would be bluestacks and on Linux would be Waydroid. It’s no secret that I am a big fan of Waydroid, here are some pros and cons. The first pro for all of them is that you are running Android. You get the latest update, you get marketplace, basically full functionality…. Well, that’s not entirely true. For the cons, The controls are one. If you’re using Waydroid everything should work. As for Bluestacks, the control for me are just bad. The Bluestacks version on MacOS is on version 4, which you have to manually map the control which is annoying. So yeah, Those are options
 
-<figure class="third" markdown="1">
+<figure class="half" markdown="1">
+
+### Dual-Booting
 
 ![Parrot](https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif)
-![Parrot](https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif)
-![Parrot](https://media.giphy.com/media/l3q2zVr6cu95nF6O4/giphy.gif)
 
-<figcaption>A trio of trippy parrots</figcaption>
+<figcaption>ew....</figcaption>
 </figure>
 
-Ooh, circle crops could come in handy, especially if we're featuring a developer's mug or something. Let's give that a go down below with a `.circle` class:
+Dual Booting. I hate this solution, but it doesn’t mean that it’s not for you! Dual-booting isn’t available on M1 Macs, So keep that in mind, at least until Asahi upstream everything to the linux kernel and you can dual-boot Android on it or something. Anyways on Macs and Linux PCs, You can either dual-boot Android x86 or Bootcamp with Windows. Ray tracing on work on Windows though. The pros are basically everything works and controls, everything works as it should… which make sense because you’re on an operating system that natively supports it. The cons however, is that you have to stop everything you’re doing. Reboot your PC. The start the game on a different operating system, then boot it back after playing, not very practical in my opinion.\
 
-<figure class="circle" markdown="1">
+<figure class="half" markdown="1">
 
 ![Random](https://source.unsplash.com/random/500x500)
 
