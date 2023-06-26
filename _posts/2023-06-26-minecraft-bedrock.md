@@ -1,6 +1,6 @@
 ---
 title:  "How to play Minecraft Bedrock on Mac/Linux"
-description: "Minecraft Bedrock is not really a crossplay platofmr"
+description: "Minecraft Bedrock is not really a crossplay platform"
 author: atius
 image: https://source.unsplash.com/featured?test
 tags:
