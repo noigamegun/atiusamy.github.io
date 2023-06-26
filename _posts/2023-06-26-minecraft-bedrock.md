@@ -20,6 +20,8 @@ You can now both get two Minecraft version for free! Now you don’t have to cho
 As you know, Minecraft Bedrock despite being a crossplay platform is not available on two platforms that Minecraft Java is on, Mac and Linux, or Steam Deck which I will refer to as Linux from now on so I don’t have to keep typing “And Steam Deck”, and in this article, we will try to fix that and here are a couple of ways you can run Minecraft Bedrock on Mac and Linux, and some suggestions for Mojang if they want to fix this.
 <figure markdown="1">
 
+### Minecraft Bedrock Launcher
+
 ![Download it on Flathub](https://github.com/AtiusAmy/atiusamy.github.io/blob/master/images/Screenshot%202023-06-26%20at%2009-06-32%20Minecraft%20Bedrock%20Launcher%20Flathub.png)
 
 <figcaption>A pretty nice application</figcaption>
