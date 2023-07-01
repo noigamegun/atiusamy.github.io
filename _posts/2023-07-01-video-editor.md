@@ -1,8 +1,8 @@
 ---
-title:  "How to play Minecraft Bedrock on Mac/Linux"
-description: "Minecraft Bedrock is not really a crossplay platform"
+title:  "Best Video Editor I've used"
+description: "What the title said"
 author: atius
-image: /images/UnixBedrock2.png
+image: /images/video.png
 tags:
   - video
   - editor
