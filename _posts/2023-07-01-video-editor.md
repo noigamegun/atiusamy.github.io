@@ -81,7 +81,7 @@ Download: https://apps.apple.com/us/app/imovie/id408981434?mt=12
 
 ### Windows Movie Maker
 
-![moviemaker](/images/mmoviemake.png)
+![moviemaker](/images/moviemake.png)
 
 Windows Movie Maker is a discontinued but still perfectly fine video editor from Microsoft. It is very basic, but it's free of charge. It's basically iMovie but iMovie is a little bit more advanced and better Ui and UX. 
 
