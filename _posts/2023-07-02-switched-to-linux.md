@@ -43,7 +43,7 @@ I often had this issue where I download stuff that isn't from Google Drive, and 
 
 Same thing here, tried solving the issue. It's super annoying. You can go look at my off-episodes unlisted videos and see how often this happens. 
 
-![issue](/images/badwindows.jpg)
+![issue](/images/badwindows.png)
 
 ### Inconsistent Dark mode
 
