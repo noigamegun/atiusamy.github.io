@@ -51,9 +51,6 @@ I have heard about it Linux before, but it was in the context of Minecraft. Mine
 
 ![Bettertogether](/images/Bettertogether.png)
 
-<figcaption>Better together? That's hard to believe.</figcaption>
-</figure>
-
 ### LINE
 
 Ew, so in Thailand we use this app called Line, right? It's bad. Device limit and no web apps (Well, there is technically a Chrome Extension but it's horrible) It's one of those "Everything App" it's trying to be a social media and chatting. (I mainly use it for school and family) and of course, no Linux support on the PC. This was another roadblock. 
@@ -66,17 +63,11 @@ Don't laugh! Paint.net is a good and competent photo manipulation program, despi
 
 ![pdn](/images/pdn.png)
 
-<figcaption>a really nice app that I have to say goodbye to</figcaption>
-</figure>
-
 ### Premiere Pro
 
 Gonna admit it here, I don't completely rely on Premiere Pro. I was finding for an "iMovie alternative for Windows" and there aren't any. (There are a lot of spammy apps which are REALLY bad) I don't know what's a good video editor so I just thought "Y'know Adobe has a lot of pirated stuff floating out there, what's an Adobe equivalent to Video Editors" and that's how I used it. (If I had known Kdenlive or Resolve exists, I would never use Adobe) so yeah, I was a little glad to move even though that means the loss of compatibility with my old projects. 
 
 ![premiere](/images/premiereweb.png)
-
-<figcaption>It's an okay app, I don't like Adobe though</figcaption>
-</figure>
 
 ## Solution
 
