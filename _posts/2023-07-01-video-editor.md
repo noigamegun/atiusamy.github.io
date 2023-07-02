@@ -25,7 +25,7 @@ Davinci Resolve is a professional video editing tool by Black Magic. It is avail
 - Advanced audio editing, color correction, and animation
 - Tutorials everywhere!
 
-#### Cons
+### Cons
 - Codecs support for MP4 isn't the best (No support on Linux and no Hardware acceleration on Windows and MacOS, Only available on the Studio Version) (Blame MPEG LA)
 - Require GPU (You probably have one anyways if you want to video edit, but incase you have something like Intel iGPUs probably check the next option)
 
@@ -57,6 +57,7 @@ Adobe Premiere Pro is a video editor made by Adobe (Duh) It is available on Wind
 ### Pros
 - Many nice effects, and uses your GPU nicely
 - Tutorial and Documentation everywhere!
+
 ### Cons
 - Adobe (Not a very good company, even if you pirate them it will still make you get used to Adobe products, and when you want to do something legal with it and earn money well.....) 
 - Very expensive when added up together (The subscription model is not good, It will cost you as long as you use the software)
@@ -73,6 +74,7 @@ iMovie is a video editor made by Apple, it is free of charge. iMovie is more mea
 ### Pros
 - Free of charge
 - Very beginner-friendly
+
 ### Cons
 - Might be too basic (While it is more advanced than people might give it credit for, it's still pretty limited)
 - Limited OS support (Only supporting MacOS with stripped down version for iOS and iPadOS)
@@ -88,6 +90,7 @@ Windows Movie Maker is a discontinued but still perfectly fine video editor from
 ### Pros
 - Free of charge
 - Simple to understand
+
 ### Cons
 - Too basic
 - Discontinued, probably would not be installable soon
@@ -104,6 +107,7 @@ Movie Maker is a video editor made by V3TApps and it is the worst thing I've eve
 ### Pros
 - Easily downloadable from the Microsoft Store, without having to hunt and search online
 - The UI feels like a Microsoft app
+
 ### Cons
 - Adware (Unless you pay the full version)
 - Very laggy
