@@ -29,7 +29,7 @@ Davinci Resolve is a professional video editing tool by Black Magic. It is avail
 - Codecs support for MP4 isn't the best (No support on Linux and no Hardware acceleration on Windows and MacOS, Only available on the Studio Version) (Blame MPEG LA)
 - Require GPU (You probably have one anyways if you want to video edit, but incase you have something like Intel iGPUs probably check the next option)
 
-Download: [[https://www.blackmagicdesign.com/products/davinciresolve]]
+Download: (https://www.blackmagicdesign.com/products/davinciresolve)
 
 ## Kdenlive
 
@@ -46,7 +46,7 @@ Kdenlive is a free and open-source video editor made by the KDE Community, It is
 - It barely uses your GPUs (It mainly uses CPU for all it's stuff, this means rendering takes forever and playback is laggy. There is experimental GPU support but it doesn't work for me unfortunately)
 - Not many tutorial or documentation to teach you features and how to use it (There are a few, but it will not cover every feature that Kdenlive has)
 
-Download: [[https://kdenlive.org/en/]]
+Download: (https://kdenlive.org/en/)
 
 ## Adobe Premiere Pro 
 
@@ -63,7 +63,7 @@ Adobe Premiere Pro is a video editor made by Adobe (Duh) It is available on Wind
 - Very expensive when added up together (The subscription model is not good, It will cost you as long as you use the software)
 - OS Support is limited (Only supporting Windows and MacOS)
 
-Download: [[https://www.adobe.com/products/premiere.html]]
+Download: (https://www.adobe.com/products/premiere.html)
 
 ## iMovie
 
@@ -79,7 +79,7 @@ iMovie is a video editor made by Apple, it is free of charge. iMovie is more mea
 - Might be too basic (While it is more advanced than people might give it credit for, it's still pretty limited)
 - Limited OS support (Only supporting MacOS with stripped down version for iOS and iPadOS)
 
-Download: [[https://apps.apple.com/us/app/imovie/id408981434?mt=12]]
+Download: (https://apps.apple.com/us/app/imovie/id408981434?mt=12)
 
 ## Windows Movie Maker
 
@@ -114,7 +114,7 @@ Movie Maker is a video editor made by V3TApps and it is the worst thing I've eve
 - Limited OS support (Only Windows version that has the Microsoft store)
 - Too Basic
 
-Download: [[https://apps.microsoft.com/store/detail/movie-maker-video-editor/9MVFQ4LMZ6C9?hl=en-us&gl=en&rtc=1]]
+Download: (https://apps.microsoft.com/store/detail/movie-maker-video-editor/9MVFQ4LMZ6C9?hl=en-us&gl=en&rtc=1)
 
 ## Conclusion
 
