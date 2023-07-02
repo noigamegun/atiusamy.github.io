@@ -15,21 +15,11 @@ Can someone who makes Minecraft videos on YouTube use Linux? I am here to blog a
 
  I'm not a very techy person, so my discovery of Linux first happened when I found my irl friend [@HannorSmith](https://twitter.com/HannorSmith), using Ubuntu at school (Thinkpad user moment). He made it look like MacOS, while it's not the most convincing thing ever, I still think it's pretty convincing. I didn't thought about it that much, until one day I found my old MacBook air from 2011. 
 
-<figure class="half" markdown="1">
-
 ![Macbook](/images/UbuntuMacbook.jpg)
-
-<figcaption>I asked Han, and he told me about Ubuntu</figcaption>
-</figure>
 
 It made the Old Macbook actually usable, and Ubuntu Yaru icons look really really good! It felt like a refreshing look. It's new, It's unique. (If it was Pop as my first distro, I might not have stuck with it as I don't think it looks good at all) I was super impressed with Linux, I also found cool apps like LibreOffice which I actually used it on Windows (I don't have MS office, I was using Google Docs and it was horrible) Anyways, I like it. 
 
-<figure class="half" markdown="1">
-
 ![Ubuntu](/images/UbuntuBook.png)
-
-<figcaption>This was my Ubuntu setup</figcaption>
-</figure>
 
 ## Why Switch?
 
@@ -59,8 +49,6 @@ Updating your operating system is an important thing to do to ensure your comput
 
 I have heard about it Linux before, but it was in the context of Minecraft. Minecraft Bedrock is not available on Mac & Linux. This is an issue that I found a couple of solutions for. Read more about it [here](https://atiusamy.github.io/minecraft-bedrock/) I mainly use Bedrock to play with my cousins for bedwars, skywars, lucky blocks, and more. It's super annoying that THE Minecraft crossplay platform is not available for Mac & Linux.
 
-<figure class="half" markdown="1">
-
 ![Bettertogether](/images/Bettertogether.png)
 
 <figcaption>Better together? That's hard to believe.</figcaption>
@@ -70,18 +58,11 @@ I have heard about it Linux before, but it was in the context of Minecraft. Mine
 
 Ew, so in Thailand we use this app called Line, right? It's bad. Device limit and no web apps (Well, there is technically a Chrome Extension but it's horrible) It's one of those "Everything App" it's trying to be a social media and chatting. (I mainly use it for school and family) and of course, no Linux support on the PC. This was another roadblock. 
 
-<figure class="half" markdown="1">
-
 ![line](/images/Linesucks.png)
-
-<figcaption>Why would you want to centralise everything in one app? </figcaption>
-</figure>
 
 ### Paint.net
 
 Don't laugh! Paint.net is a good and competent photo manipulation program, despite being simple. (Basically simple by default powerful when you need it) Paint.net is only available on Windows and that's a problem. I rely on it to make YouTube thumbnail, that's a problem. 
-
-<figure class="half" markdown="1">
 
 ![pdn](/images/pdn.png)
 
@@ -91,8 +72,6 @@ Don't laugh! Paint.net is a good and competent photo manipulation program, despi
 ### Premiere Pro
 
 Gonna admit it here, I don't completely rely on Premiere Pro. I was finding for an "iMovie alternative for Windows" and there aren't any. (There are a lot of spammy apps which are REALLY bad) I don't know what's a good video editor so I just thought "Y'know Adobe has a lot of pirated stuff floating out there, what's an Adobe equivalent to Video Editors" and that's how I used it. (If I had known Kdenlive or Resolve exists, I would never use Adobe) so yeah, I was a little glad to move even though that means the loss of compatibility with my old projects. 
-
-<figure class="half" markdown="1">
 
 ![premiere](/images/premiereweb.png)
 
