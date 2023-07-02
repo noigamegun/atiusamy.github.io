@@ -22,7 +22,7 @@ Can someone who makes Minecraft videos on YouTube use Linux? I am here to blog a
 
 It made the Old Macbook actually usable, and Ubuntu Yaru icons look really really good! It felt like a refreshing look. It's new, It's unique. (If it was Pop as my first distro, I might not have stuck with it as I don't think it looks good at all) I was super impressed with Linux, I also found cool apps like LibreOffice which I actually used it on Windows (I don't have MS office, I was using Google Docs and it was horrible) Anyways, I like it. 
 
-![Ubuntu](/images/UbuntuBook.jpg)
+![Ubuntu](/images/UbuntuBook.png)
 
 <figcaption>This was my Ubuntu setup</figcaption>
 </figure>
@@ -134,7 +134,7 @@ As someone who has a Budgie profile picture, I would be drawn to this desktop. I
 
 ![premiere](/images/Budgie.png)
 
-#### Distro
+### Distro
 
 Of course, I've daily drive a couple distro, so let's get right into it. 
 
