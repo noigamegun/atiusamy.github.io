@@ -28,7 +28,7 @@ PrismLauncher is a free and open-source 3rd party Minecraft Launcher. It uses th
 
 I hate to admit it, but I first heard of it through drama. A while ago, PolyMC’s founder, Lenny went rogue to basically kicked everyone from the project to own the libs or whatever…. The Internet is so stupid with its tribalism sometimes, if you want to know more about this topic check out [this](https://youtu.be/FyS8ELbafN0) video by Brodie Robertson. So, the developers all moved to Prism Launcher, and that’s how I know it. I was basically not using any third-party launcher at the time, so I didn’t care but the launcher is now known to exist for me and it’s also open source which is a big factor for me to consider using something third-party. 
 
-### If I did not switch then? Why did I switch now?
+### Why did I switch now?
 
 ![polymc](/images/frac.png)
 
@@ -39,6 +39,8 @@ Well not now, it’s a couple of weeks ago. On the 7th of June 2023, the malware
 so, I decided that y’know what going forward, I’m using the Flatpak version. There is a repackaged Minecraft Launcher in Flathub, but it signs you out every time, so it’s annoying. I decide to switch to Prism Launcher instead.
 
 ### Why did I stay though?
+
+![polymc](/images/prismlaunch.png)
 
 To keep it simple: Mod updates, Flatpak, Instances. I like how you can easily update your mods directly from Modrinth or Curseforge, I think it’s a genuinely useful feature, a One-click update for mods (Except those like Replay Mod). I also like that it officially supports Flatpak, a universal and more secure way of distributing applications on Linux, which has made malware, like fractureiser not work. I like the multiple instances, of how you can have different .minecraft for each mod packs you play. This is doable in the default Minecraft Launcher but it takes more effort. This one is just automatic just like that. This launcher makes everything about installing mods in Minecraft easier.
 
