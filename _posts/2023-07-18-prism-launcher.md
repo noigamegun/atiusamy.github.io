@@ -34,7 +34,9 @@ I hate to admit it, but I first heard of it through drama. A while ago, PolyMC�
 
 Well not now, it’s a couple of weeks ago. On the 7th of June 2023, the malware [fractureiser](https://github.com/fractureiser-investigation/fractureiser) hit. The malware infects Linux and Windows PCs. Hey, we are now being targeted! Does that mean we’re important? Probably not. One of the few safer things is Flatpak, see, Minecraft Java is really broken in its permissions and has access to a lot of things they really should not have access to. Flatpak is a sandbox solution on Linux, that increases security. As orowith2os said 
 
-` If you use Linux, use the PrismLauncher Flatpak and be very careful of what you give it access to through utilities such as Flatseal. By default, it has no access to the needed directories to compromise the system. Other sandbox escapes may be possible, but the malware most likely doesn't account for running inside of a sandbox of this sort. `
+```
+If you use Linux, use the PrismLauncher Flatpak and be very careful of what you give it access to through utilities such as Flatseal. By default, it has no access to the needed directories to compromise the system. Other sandbox escapes may be possible, but the malware most likely doesn't account for running inside of a sandbox of this sort.
+```
 
 so, I decided that y’know what going forward, I’m using the Flatpak version. There is a repackaged Minecraft Launcher in Flathub, but it signs you out every time, so it’s annoying. I decide to switch to Prism Launcher instead.
 
