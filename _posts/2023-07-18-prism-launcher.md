@@ -10,7 +10,7 @@ tags:
   - opensource
 ---
 
-I recently switched to Prism Launcher and I'm gonna write down my thoughts about it, over the recent weeks, I have not been using the default Minecraft Launcher and now using something else, that thing is PrismLauncher. Today, I’m gonna cover what is it? How I discovered it? Why I switched? And why I stayed? Let’s get right into it.
+I recently switched to Prism Launcher and I'm gonna write down my thoughts about it, over the recent weeks, I have not been using the default Minecraft Launcher and now using something else, that thing is PrismLauncher. Today, I’m gonna cover what is it? How I discovered it? Why I switched? And why I stayed? Let’s get right into it. Seriously!
 
 ### Video form
 
