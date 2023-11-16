@@ -26,4 +26,4 @@ Real life stuff out of the way, let's jump back a bit to late 6th grade, I disco
 
 ![AFOE](/images/afoe.png)
 
-I decided to make my own because I wanted to make my own, 
+I decided to make my own because I wanted to make my own, it was okay-ish for a first video, but good enough to attract some attention by a few other 'mappers'. Two of the people that commented on my videos are "Sebileanow" and "Hyperflame", they later launched a Discord server together (I had to recovered my Discord account for this lol). I had moved to a new school so after a whi
