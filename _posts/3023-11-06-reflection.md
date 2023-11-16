@@ -10,34 +10,16 @@ tags:
 
 ![runarcn](/images/Signal.png)
 
-Ever since I was a kid, I've always hated the choice of messaging software. I used to use LINE which is a messaging service popular here in Thailand and Japan. I never liked it, the other choice I could use are: SMS and Facebook Messenger, which I don't think I need to explain why they are horrible. :P
+2023 what a year!- welll it has not ended yet.... but it should be in a month, so it's time to reflect on it.
 
-### But how have I heard of Signal though?
+### Recap
 
-![runarcn](/images/runarcn.png)
+Let's recap my situation and who I am. Unless you're not aware (Can't blame you, you might be from YouTube) I'm Amy! Now, before 2020, I have a very clear personality. I try to be nice and supportive to many people as possible, however I have an occasional prankster side which I try to suppress. It does occasinally show out from time to time, before "Atius" I used to be known as "BLUEBB_333". Back then all the social media I had was YouTube channel and that's it. I did troll someone once with my cousin in the comment section of a YouTube reply, there was one infamous "thread" let's call it, under Zajcu37's video. It was not the most pretty thing I did. A while later when I was playing Roblox, that side of me shows up once again. This might be one of my biggest mistake that lead me down a worse path. In the summer of 2018, I had a friend. We were playing Phantom Forces and I decided to votekick him for fun, because it's acting up again. This one event made my friend pretty mad, he blocked me and left the school that year (Whether he left the school because of me or not is irrelevant, because that's what I was feeling atm), I was pretty heartbroken. I was not one to confront my own feeling of guilt however, the best thing I did was try to suppress it and burn everything that reminded me of that era. I left Roblox, I decided "Y'know what? Fine! I'll do my own thing" I got a little group playing lego'es. One of them was quite a history nerd, talking about stuff I could never understand, I had to get my mind off of Roblox so I decided to read more about it. I watched a bunch of "OverSimplified" History videos about WW2, and this is when things started to change. It was Grade 6 and while that year was generally relatively fun, it was quite bittersweet. 
 
-A few months ago, [@runarcn](https://mstdn.social/@runarcn) introduced me to Signal and recommended it. I don't usually agree on everything runarcn said... actually I don't agree with most things he usually talks about (sorry runarcn :P). I have tried out private options before, such as Matrix or Telegram. I feel like they are kinda horrible in their own right. Matrix for example is not the most user-friendly, plus their uh- "Failed to decrypt" issue is something I'd never want to bring to my friends or family. As for Telegram, it's not the worst but the fact that their server-side code is not FOSS makes it something I want to touch less compared to Signal. Proprietary software is not like that much of an issue for me, but if I could choose I'd choose FOSS  ones. (Provided it is good enough)
+![Thai Education Systen](/images/Education.png)
 
-### The Good
+In Thailand, once you stop Grade 6 (Prathom), you move on to Matthayom. I move on to Matthayom 1 naturally. I (my parents) decided to go to CRU, which is the province's "number 1" public school. (It was actually segregated between AMAB and AFAB people). Of course, I studied and make sure I can pass the entrance exam to get in. I did not get into the Gifted class (Thank god for that). I actually got into the "King" class which is like the most top "normal" one. I was pretty proud of myself actually, but when I'm not doing anything, I am starting to have nothing to do. I didn't go to my grandparent's house to play Minecraft and hang out with my cousins like usual, because well, I had an entrance exam to do. My little brother had been sent off over there to not disturb me. This puts me in a very weird and uncomfortable position, I am an extroverted person. Talking to people is like my whole thing.
 
-So when I first downloaded Signal on my phone there are two things I noticed: 
-1. This is very user-friendly!
-2. Holy cow! It actually looks good! 
-That's my first impression, but there's more to i than that, there's desktop Linux support! Hooray! If you've seen my [last article](https://atiusamy.github.io/switched-to-linux/) that was kind of an issue for me... I like that it added features that typical user would expect such as: Stickers, GIF, Voice Message, Stories, and Video calls! While I don't use half of those features myself, I think it's nice for those switching from other platforms which do have that.
+![MODS!! BOOK THIS FELLA](/images/noidea.png)
 
-### The Lovely
-
-I was gonna do a "The Good, The Bad, The Ugly" kinda style because I thought it's funny but I don't have anything that I'd call bad or even ugly, sooooo yeah :P Anyways, one of the things I love about Signal is their stance on encryption, [Signal even threatens to pull out of the UK](https://cybernews.com/news/signal-to-leave-uk/) because their government wants them to break the encryption and scan for media that user may send, that is really good dedication to user-privacy. In a [recent interview](https://restofworld.org/2023/signal-president-meredith-whittaker-messaing-privacy/) Signal's President, Meredith Whittaker have been asked about the topic: **How do you respond to the government pressure to comply when you’re threatened with an outright ban?** "I mean, it’s simple: We can’t provide the information. So you can put a gun to my head — you’ll have to shoot. We don’t have it because it’s end-to-end encrypted. There’s no balancing that’s in our hands because of the guarantees we make." I doubt that I will need that kind of privacy and security anytime soon, but it's a very nice to have in this day and age. Another nice thing that I really love is the foundation behind it. It is a non-profit, which is really nice considering that their goals isn't to make money of my data....
-
-### The Annoyance
-
-Like everything in this world, it isn't perfect. Here are a few annoyances I have with it: 
-1. No Android tablets support: This isn't an issue I'd particularly blame Signal for as Android tablets have like barely any market share...
-2. No usernames: This is kind of an issue if I ever want to use it for online purporses. Signal is originally made to be an SMS replacement, so they haven't switched over to username instead of phone number. I hope something does happen in the end though.
-3. No SMS support: Well, they used to but not anymore :( This is mostly just so I can read SMS on the desktop....
-4. The protocol is not federate: This may change, and I think it will with the new EU law, so fingercrossed?
-
-## In Conclusion
-
-I really love Signal so far, and I think it is my favorite messaging app to date. I very much recommend Signal to everyone.... if you're comfortable revealing your phone number (for now), but it should not be a problem for IRL stuff, so anyway: Use Signal and stay encrypted! Amy out!
-
+Real life stuff out of the way, let's jump back a bit to late 6th grade, I discovered these things called "Countryballs". They're like Country but balls and they talk, abd a while later, I discovered something called "Alternate Future of the World" by Cosmic Mapping, I binged all of the episode. 
