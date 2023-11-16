@@ -8,9 +8,9 @@ tags:
   - 2023
 ---
 
-![runarcn](/images/Signal.png)
+![2023](/images/2023.png)
 
-2023 what a year!- welll it has not ended yet.... but it should be in a month, so it's time to reflect on it.
+2023 what a year!- welll it has not ended yet.... but it should be in a month, so it's time to reflect on it, but first we need to recap
 
 ### Recap
 
@@ -22,4 +22,8 @@ In Thailand, once you stop Grade 6 (Prathom), you move on to Matthayom. I move o
 
 ![MODS!! BOOK THIS FELLA](/images/noidea.png)
 
-Real life stuff out of the way, let's jump back a bit to late 6th grade, I discovered these things called "Countryballs". They're like Country but balls and they talk, abd a while later, I discovered something called "Alternate Future of the World" by Cosmic Mapping, I binged all of the episode. 
+Real life stuff out of the way, let's jump back a bit to late 6th grade, I discovered these things called "Countryballs". They're like Country but balls and they talk, abd a while later, I discovered something called "[Alternate Future of the World](https://www.youtube.com/playlist?list=PLM8MOe2tQUyMUxch65t0m5kzljmJYH8NA)" by Cosmic Mapping, I binged all of the episode. In an alternate universe, this would just have been a passing video, nothing more nothing less. A few days later, the YouTube algorithm decided to serve me [videos](https://www.youtube.com/playlist?list=PLYZO2Y_ZXiKiYy1ilgbVGsKK1wKy90oiv) from Japanese Mapping. It combined the concept of "AFOW" and "Countryballs" together and it was fairly 'well-produced'.
+
+![AFOE](/images/afoe.png)
+
+I decided to make my own because I wanted to make my own, 
