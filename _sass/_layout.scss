@@ -9,6 +9,10 @@ body > section {
   padding: 0 1rem;
 }
 
+body > section:first-of-type {
+    padding-top: 6rem;
+  }
+
 body > footer {
   background-color: var(--secondary-bg-color);
   display: flex;
