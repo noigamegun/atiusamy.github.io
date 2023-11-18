@@ -5,7 +5,8 @@
 
     <img
       alt="{{ include.alt }}"
-      src="/images/{{ page.slug }}/{{ include.src }}"
+      src="/images/{{ page.slug }}/{{ include.src }}" 
+	  class="rounded-corners"
 
       {% if include.width %}
         {% if include.height %}
@@ -14,3 +15,4 @@
       {% endif %}
     />
 </picture>
+
