@@ -1,7 +1,15 @@
+@font-face {
+font-family: 'Gabarito';
+src: url('https://github.com/AtiusAmy/atiusamy.github.io/tree/master/fonts/Gabarito/static/Gabarito-Regular.ttf') format('truetype'),
+url('https://github.com/AtiusAmy/atiusamy.github.io/tree/master/fonts/Gabarito/static/Gabarito-Regular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
 :root {
-  --ui-font: Inter, "Open Sans", "Noto Sans", "Roboto", "Droid Sans", sans-serif;
+  --ui-font: "Gabarito", sans-serif;
   --copy-font:  "Gabarito", sans-serif;
-  --heading-font: Inter, Raleway, var(--ui-font);
+  --heading-font: "Gabarito", var(--ui-font);
 }
 
 html {
