@@ -13,7 +13,7 @@ Can someone who makes Minecraft videos on YouTube use Linux? I am here to blog a
 
 ## How did I discovered Linux?
 
- I'm not a very techy person, so my discovery of Linux first happened when I found my irl friend [@HannorSmith](https://twitter.com/HannorSmith), using Ubuntu at school (Thinkpad user moment). He made it look like MacOS, while it's not the most convincing thing ever, I still think it's pretty convincing. I didn't thought about it that much, until one day I found my old MacBook air from 2011. 
+ I'm not a very techy person, so my discovery of Linux first happened when I found my irl friend [@HannorSmith](https://mastodon.social/@hannorsmith), using Ubuntu at school (Thinkpad user moment). He made it look like MacOS, while it's not the most convincing thing ever, I still think it's pretty convincing. I didn't thought about it that much, until one day I found my old MacBook air from 2011. 
 
 ![Macbook](/images/UbuntuMacbook.jpg)
 
