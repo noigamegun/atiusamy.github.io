@@ -44,6 +44,6 @@ So let's first reflex on one of the things that I am involved in during 2023. I 
 
 ![Gitlab](/images/Screenshot_20231121-073332_Firefox.png)
 
-But my first "contribution" came in the form of the language I speak. I'm not a big fan of Thai personally, there are a lot of letters and it's not the easiest to type. I have been using English as my device language since I've been able to read it. One day, I thought about a funny idea of changing my GNOME language to Thai for fun. I then realized how terrible the situation is.
+But my first "contribution" came in the form of the language I speak. I'm not a big fan of Thai personally, there are a lot of letters and it's not the easiest to type. I have been using English as my device language since I've been able to read it. One day, I thought about a funny idea of changing my GNOME language to Thai for fun. I then realized how terrible the situation is. Many user-facing element are still in English, such as the Power Off button. I decided that it is time for me to do *something*, **Anything!** I then translate a lot of the shell element and a bit of Nautilus. (You'd have to manually edit po files, which is kinda ehhh). Other than that I also translated [Warehouse](https://flathub.org/apps/io.github.flattool.Warehouse) and a bit of [FluffyChat](https://fluffychat.im/). 
 
 
