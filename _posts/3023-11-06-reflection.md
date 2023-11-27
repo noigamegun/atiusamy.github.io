@@ -48,7 +48,7 @@ But my first "contribution" came in the form of the language I speak. I'm not a 
 
 # 'Academic' Life
 
-I started this year in Mathayom 4. I did not enjoy my time as highlighted above at the end of the recap. I know it's stupid, but in Thailand, there is a hair mandate. 
+I started this year in Mathayom 4. I did not enjoy my time as highlighted above at the end of the recap. I know it's stupid, but in Thailand, there is a hair mandate in high school. During COVID, I practically did not cut my hair. I wasn't feeling super happy about having to do that once school opened up again. So after asking my parents about it, I realize that this idea is possible. Just skip high school entirely (well, almost entirely as I had one year in it). I wanna say I studied and studied and tried super hard, but like GED isn't the hardest thing (Not to say I don't study, but I'm more of a "I'll just read a few things before the exam" type of person). 
 
 
 
