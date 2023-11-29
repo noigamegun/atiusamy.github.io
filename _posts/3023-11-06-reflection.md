@@ -48,7 +48,11 @@ But my first "contribution" came in the form of the language I speak. I'm not a 
 
 # 'Academic' Life
 
-I started this year in Mathayom 4. I did not enjoy my time as highlighted above at the end of the recap. I know it's stupid, but in Thailand, there is a hair mandate in high school. During COVID, I practically did not cut my hair. I wasn't feeling super happy about having to do that once school opened up again. So after asking my parents about it, I realize that this idea is possible. Just skip high school entirely (well, almost entirely as I had one year in it). I wanna say I studied and studied and tried super hard, but like GED isn't the hardest thing (Not to say I don't study, but I'm more of a "I'll just read a few things before the exam" type of person). 
+I started this year in Mathayom 4. I did not enjoy my time as highlighted above at the end of the recap. I know it's stupid, but in Thailand, there is a hair mandate in high school. During COVID, I practically did not cut my hair. I wasn't feeling super happy about having to do that once school opened up again. So after asking my parents about it, I realize that this idea is possible. Just skip high school entirely (well, almost entirely as I had one year in it). I wanna say I studied and studied and tried super hard, but like GED isn't the hardest thing (Not to say I don't study, but I'm more of a "I'll just read a few things before the exam" type of person). So I passed the GED thing and my uni entrance exam. It was kinda awesome (I had to do RLA and Social Studies again though). Safe to say that so far, uni has been a more enjoyable experience than my one year of high school (Albeit, I was more prepared mentally). It wasn't easy and there was some dificulties getting used to things but I am in  a far better place now than I was earlier this year. SO, I think this is a positive. Oh and if you're curious, I am on Biological Science major, it's kind of my childhood dream to be a zoologist or ecologist.
+
+# Being Transgender
+
+Now, this is kind of a heavy subject. In case you don't know, I am Transgender! I hope it won't be much of a surprise, but if it is then uh hi I guess. It was a feeling I've had 
 
 
 
