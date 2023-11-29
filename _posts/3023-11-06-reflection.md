@@ -52,7 +52,7 @@ I started this year in Mathayom 4. I did not enjoy my time as highlighted above 
 
 # Being Transgender
 
-Now, this is kind of a heavy subject. In case you don't know, I am Transgender! I hope it won't be much of a surprise, but if it is then uh hi I guess. It was a feeling I've had 
+Now, this is kind of a heavy subject. In case you don't know, I am Transgender! I hope it won't be much of a surprise, but if it is then uh hi I guess. It was a feeling I've had ever since I was a kid. 
 
 
 
