@@ -2,7 +2,7 @@
 title:  "Self reflection on 2023"
 description: "This year has been a crazy year, and I wanted to reflect my thoughts on it"
 author: atius
-image: /images/Signal.png
+image: /images/2023.png
 tags:
   - seflreflection
   - 2023
@@ -50,9 +50,11 @@ But my first "contribution" came in the form of the language I speak. I'm not a 
 
 I started this year in Mathayom 4. I did not enjoy my time as highlighted above at the end of the recap. I know it's stupid, but in Thailand, there is a hair mandate in high school. During COVID, I practically did not cut my hair. I wasn't feeling super happy about having to do that once school opened up again. So after asking my parents about it, I realize that this idea is possible. Just skip high school entirely (well, almost entirely as I had one year in it). I wanna say I studied and studied and tried super hard, but like GED isn't the hardest thing (Not to say I don't study, but I'm more of a "I'll just read a few things before the exam" type of person). So I passed the GED thing and my uni entrance exam. It was kinda awesome (I had to do RLA and Social Studies again though). Safe to say that so far, uni has been a more enjoyable experience than my one year of high school (Albeit, I was more prepared mentally). It wasn't easy and there was some dificulties getting used to things but I am in  a far better place now than I was earlier this year. SO, I think this is a positive. Oh and if you're curious, I am on Biological Science major, it's kind of my childhood dream to be a zoologist or ecologist.
 
-# Being Transgender
+# Being Transgender and using a new name
 
-Now, this is kind of a heavy subject. In case you don't know, I am Transgender! I hope it won't be much of a surprise, but if it is then uh hi I guess. It was a feeling I've had ever since I was a kid. 
+Now, this is kind of a heavy subject. In case you don't know, I am Transgender! I hope it won't be much of a surprise, but if it is then uh hi I guess. It was a feeling I've had ever since I was a kid. I had never really considered that I was one, infact I tried my hardest to make sure I'm not one (I was not transphobic at that time, but I didn't know that surgery isn't everything and I really was afraid of surgery). I actually quit chicken at one point because I thought they added hormones to it. Last year was really the time I was still exploring it, and as mentioned before 2022 was not the year where I had the most confidence. My social life was kinda hell and I didn't like that. I occasionally seem rude because I can't decide to use "Krub" or "Ka" (Context: In Thai, to be polite you have to end your sentence with Krub or Ka depending on your gender, if you want to know more about it you can read about it [here](https://learnthaiinsingapore.com/what-do-krub-and-ka-mean-in-thai/)) and I ended up not using either. So, when high school ended this year I spent an effort to get into college as I mentioned earlier, to let's say start over socially aswell. During the summer I have been getting accustomed to "Ka" that I wasn't shy anymore. 
 
+![Amy](/images/name.png)
 
+The name though, I have found a name that I like that resonates with me. I mainly use it online because well, it's just a username. No one uses their real name anyways, right? A while later during the summer, one of my friend which used to be in the same schools since like forever wanted to invite me to a group chat about my old class during "prathom" (Again refer to the chart above). It's an Instagram group. I was not a Facebook fan since I was a kid (For no legitimate reason, but later legitimate privacy concerns). It was during a holiday for me and I was kinda lonely so I was like "Screw it! Just one account" I created an Instagram account and I decided to use @AmyIsCoolz, which is like THE @ I use, even on my [Mastodon Account](https://sauropods.win/@AmyIsCoolz)
 
