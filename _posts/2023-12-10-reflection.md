@@ -1,11 +1,11 @@
 ﻿---
-title:  "Self reflection on the year"
+title:  "Self reflection on 2023"
 description: "This year has been a crazy year, and I wanted to reflect my thoughts on it"
 author: atius
 image: /images/2023.png
 tags:
   - seflreflection
-  - 2023
+  - reflection
 ---
 
 ![2023](/images/2023.png)
