@@ -1,5 +1,5 @@
 ﻿---
-title:  "Self reflection on 2023"
+title:  "Self reflection on the year"
 description: "This year has been a crazy year, and I wanted to reflect my thoughts on it"
 author: atius
 image: /images/2023.png
