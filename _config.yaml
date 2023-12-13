@@ -5,8 +5,7 @@ theme-color: "#006fff"
 gravatar: d43980d430448a2c84749b82af8eb76a
 
 
-mastodon: atius
-twitter: atiusamy
+mastodon: atius@firefish.social
 
 authors:
   atius:
@@ -14,7 +13,7 @@ authors:
     description: "someone I imagined"
     gravatar: d43980d430448a2c84749b82af8eb76a # Gravatar md5 hash
   anonymous:
-    name: "Unknown Author"
+    name: "WHO????"
 
 plugins:
   - jekyll-feed
