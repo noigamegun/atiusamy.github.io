@@ -1,4 +1,4 @@
-#blog
+# AtiusAmy Blog
 
 Forked from https://github.com/elementary/blog-template
 
