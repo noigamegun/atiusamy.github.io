@@ -10,7 +10,7 @@ body > section {
 }
 
 body > section:first-of-type {
-    padding-top: 6rem;
+    padding: 0;
   }
 
 body > footer {
@@ -118,6 +118,31 @@ hr {
     font-weight: bold;
     letter-spacing: 1em;
     text-align: center;
+  }
+}
+
+.heading-grid {
+  margin-top: 4rem;
+
+  display: grid;
+  grid-template-columns: auto auto auto;
+  
+  div {
+    text-align: center;
+    align-items: center;
+  }
+
+  .profile {
+    grid-column-start: 1;
+    grid-column-end: 1;
+
+    align-self: center;
+    text-align: center;
+  }
+
+  .details {
+    grid-column-start: 2;
+    grid-column-end: 4;
   }
 }
 
