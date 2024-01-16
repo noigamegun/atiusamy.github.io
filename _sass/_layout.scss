@@ -121,17 +121,27 @@ hr {
   }
 }
 
+/* For mobile phones: */
+[class*="heading-grid"] {
+  display: block;
+}
+
 @media only screen and (min-width: 600px) {
+  /* For tablets: */
   .heading-grid {
-    display: block; 
+    display: block;
+  }
+}
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .heading-grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
   }
 }
 
 .heading-grid {
   margin-top: 4rem;
-
-  display: grid;
-  grid-template-columns: auto auto auto;
   
   div {
     text-align: center;
