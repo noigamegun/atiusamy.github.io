@@ -1,0 +1,28 @@
+---
+layout: default
+redirect_from:
+  - /archive/
+  - /archive
+  - /archive/1/
+  - /archive/1
+---
+
+<h2 style="margin-left: 20px;">FAQ - Frequently Asked Questions</h2>
+
+<section class="more">
+  <details>
+    <summary>Details</summary>
+    Something small enough to escape casual notice.
+  </details>
+</section>
+
+<nav class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Newer</a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Older</a>
+  {% endif %}
+</nav>
+
