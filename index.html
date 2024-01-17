@@ -27,18 +27,20 @@ redirect_from:
   {% endcomment %}
   
   <section class="latest">
-    <h2>Blogs</h2>
-    {% assign post=paginator.posts.first %}
-    {% include featured.html post=post %}
+    <h2 style="font-size: 1.5em">Blogs</h2>
+    <div>
+      {% assign post=paginator.posts.first %}
+      {% include featured.html post=post %}
 
-    {% assign post=paginator.posts[1] %}
-    {% include featured.html post=post %}
+      {% assign post=paginator.posts[1] %}
+      {% include featured.html post=post %}
 
-    {% assign post=paginator.posts[2] %}
-    {% include featured.html post=post %}
+      {% assign post=paginator.posts[2] %}
+      {% include featured.html post=post %}
 
-    {% assign post=paginator.posts[3] %}
-    {% include featured.html post=post %}
+      {% assign post=paginator.posts[3] %}
+      {% include featured.html post=post %}
+    </div>
   </section>
 {% endunless %}
 
