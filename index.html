@@ -25,8 +25,8 @@ redirect_from:
   {% comment %}
     Newest posts in a unique, Medium-like layout on the first page
   {% endcomment %}
-  <h2 style="margin-left: 20px; margin-bottom: -2rem">Blogs</h2>
   <section class="latest">
+    <h2 style="margin-left: 20px;">Blogs</h2>
     {% assign post=paginator.posts.first %}
     {% include featured.html post=post %}
 
@@ -43,14 +43,14 @@ redirect_from:
 
 <section class="more">
 {% if paginator.previous_page %}
-  <h2>Archive Page {{ paginator.page }}</h2>
+  <h2 style="margin-left: 20px;">Archive Page {{ paginator.page }}</h2>
   {% for post in paginator.posts %}
     {% unless post.hidden %}
       {% include featured.html post=post %}
     {% endunless %}
   {% endfor %}
 {% else %}
-  <h2>More Stories</h2>
+  <h2 style="margin-left: 20px;">More Stories</h2>
   {% for post in paginator.posts offset: 4 %}
     {% unless post.hidden %}
       {% include featured.html post=post %}
