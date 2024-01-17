@@ -138,35 +138,3 @@ pre {
 .hidden {
   display: none;
 }
-
-details {
-  border-radius: 5px;
-  padding-top: 0.5em;
-  padding-bottom: 1px;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
-
-  margin: 20px;
-
-  background-color: dimgrey;
-  color: white;
-}
-
-summary {
-  font-weight: bold;
-  border-radius: 5px;
-  margin: -0.5em -0.5em 0;
-  padding: 0.5em;
-
-  background-color: #4a82dd;
-}
-
-details[open] {
-  p {
-    font-size: 16px;
-  }
-}
-
-details[open] summary {
-  margin-bottom: 0.5em;
-}

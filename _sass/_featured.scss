@@ -155,4 +155,8 @@
   .latest .featured:nth-child(n+2) {
     @extend %featured-small;
   }
+
+  .faq {
+    margin-top: 2rem;
+  }
 }

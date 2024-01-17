@@ -25,19 +25,22 @@ redirect_from:
   {% comment %}
     Newest posts in a unique, Medium-like layout on the first page
   {% endcomment %}
-  <h2 style="margin-left: 20px; margin-bottom: -2rem">Blogs</h2>
-  <section class="latest">
-    {% assign post=paginator.posts.first %}
-    {% include featured.html post=post %}
+  
+  <section>
+    <h2>Blogs</h2>
+    <div class="latest" style="margin-top: 0">
+      {% assign post=paginator.posts.first %}
+      {% include featured.html post=post %}
 
-    {% assign post=paginator.posts[1] %}
-    {% include featured.html post=post %}
+      {% assign post=paginator.posts[1] %}
+      {% include featured.html post=post %}
 
-    {% assign post=paginator.posts[2] %}
-    {% include featured.html post=post %}
+      {% assign post=paginator.posts[2] %}
+      {% include featured.html post=post %}
 
-    {% assign post=paginator.posts[3] %}
-    {% include featured.html post=post %}
+      {% assign post=paginator.posts[3] %}
+      {% include featured.html post=post %}
+    </div>
   </section>
 {% endunless %}
 
