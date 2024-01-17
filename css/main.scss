@@ -143,6 +143,8 @@ details {
   border: 1px solid #aaa;
   border-radius: 4px;
   padding: 0.5em 0.5em 0;
+
+  background-color: #4a82dd;
 }
 
 summary {
@@ -153,6 +155,10 @@ summary {
 
 details[open] {
   padding: 0.5em;
+
+  p {
+    font-size: 16px;
+  }
 }
 
 details[open] summary {
