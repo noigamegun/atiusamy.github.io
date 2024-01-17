@@ -26,9 +26,9 @@ redirect_from:
     Newest posts in a unique, Medium-like layout on the first page
   {% endcomment %}
   
-  <section class="latest">
-    <h2 style="font-size: 1.5em">Blogs</h2>
-    <div>
+  <section>
+    <h2>Blogs</h2>
+    <div class="latest" style="margin-top: 0">
       {% assign post=paginator.posts.first %}
       {% include featured.html post=post %}
 
