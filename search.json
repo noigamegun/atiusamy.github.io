@@ -30,7 +30,7 @@ layout: none
         "url": "{{ site.baseurl }}{{ post.url }}",
         "tags": "{{ post.tags | join: ', ' }}",
         "date": "{{ post.date }}"
-      } {% unless forloop.last%}
+      } {% unless forloop.last%}{% endunless %}
     {% endunless %}
   {% endfor %}
 ]
