@@ -8,7 +8,7 @@
       <li><a href="https://www.youtube.com/@Atius/videos" target="_self"><b>AtiusAmy</b></a></li>
     </ul>
 
-    <ul>
+    <ul class="secondary">
       <div id="search-container" class="hidden">
         {% include svg/edit-find-symbolic.svg %}
         <input type="text" id="search-input" placeholder="Search Posts…">
@@ -34,7 +34,7 @@
       </a></li>
     </ul>
 
-    <script src="/scripts/search.js"></script>
+    <script src="{{ site.baseurl }}/scripts/search.js"></script>
 
     <script>
       document.getElementById('search-container').classList.remove("hidden")
