@@ -170,3 +170,16 @@ details[open] {
 details[open] summary {
   margin-bottom: 0.5em;
 }
+
+.faqButton {
+  display: inline-block;
+  padding: 30px 100px; 
+  text-align: center;
+  text-decoration: none;
+  font-size: 2rem;
+  background: linear-gradient(rgb(91, 207, 251) 42%, rgb(0, 89, 204) 100%);
+  color: white;
+  border: 0;
+  border-radius: 20px;
+  transition: background-color 0.3s;
+}
