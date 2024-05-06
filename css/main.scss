@@ -183,3 +183,16 @@ details[open] summary {
   border-radius: 20px;
   transition: background-color 0.3s;
 }
+
+.linksButton {
+  display: inline-block;
+  padding: 30px 100px; 
+  text-align: center;
+  text-decoration: none;
+  font-size: 2rem;
+  background: linear-gradient(rgb(245, 169, 184) 20%, rgb(245, 61, 107) 100%);
+  color: white;
+  border: 0;
+  border-radius: 20px;
+  transition: background-color 0.3s;
+}
