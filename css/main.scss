@@ -199,6 +199,11 @@ details[open] summary {
   transition: background-color 0.3s;
 }
 
+.links {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
 .gridSection {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
