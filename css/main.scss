@@ -221,6 +221,7 @@ details[open] summary {
   max-width: fit-content;
   cursor: pointer;
   color: var(--fg-color);
+  text-decoration: none;
 }
 
 .gridItem img {
@@ -233,4 +234,14 @@ details[open] summary {
 .gridItem .details {
   display: flex;
   flex-direction: column;
+}
+
+.gridItem .details h2 {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+.gridItem .details p {
+  font-size: 0.7em;
+  margin: 0;
 }
