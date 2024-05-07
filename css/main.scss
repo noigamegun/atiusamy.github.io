@@ -210,3 +210,27 @@ details[open] summary {
   grid-auto-rows: minmax(100px, auto);
   gap: 10px; 
 }
+
+.gridItem {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  align-items: center;
+  padding-block: .5rem;
+  padding-inline: .5rem 1rem;
+  max-width: fit-content;
+  cursor: pointer;
+  color: var(--fg-color);
+}
+
+.gridItem img {
+  width: 64px; 
+  height: 64px; 
+  border: 1px solid #d2d2d2;
+  border-radius: 15px;
+}
+
+.gridItem .details {
+  display: flex;
+  flex-direction: column;
+}
