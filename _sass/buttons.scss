@@ -1,6 +1,6 @@
 button {
-	transition: transform 0.4s;
-	-webkit-transition: transform 0.4s;
+	transition: transform 0.4s; !important
+	-webkit-transition: transform 0.4s !important;
 }
 
 button:hover {
