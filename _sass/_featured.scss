@@ -6,8 +6,8 @@
   opacity: 1;
   padding: 1rem;
   text-decoration: none;
-  transition: background-color 250ms ease, color 250ms ease, transform 0.4s;
-  -webkit-transition: transform 0.4s;
+  transition: background-color 250ms ease, color 250ms ease, transform 0.6s;
+  -webkit-transition: transform 0.6s;
 
   &:hover {
     background: var(--secondary-bg-color);
