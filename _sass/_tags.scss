@@ -14,4 +14,9 @@ aside.tags {
   margin: 0.125em;
   padding: 0 0.5em;
   text-decoration: none;
+  transition: transform 0.6s;
+}
+
+.tag:hover {
+  transform: scale(1.05);
 }
