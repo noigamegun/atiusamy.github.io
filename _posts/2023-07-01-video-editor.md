@@ -85,7 +85,7 @@ Download: [https://apps.apple.com/us/app/imovie/id408981434?mt=12](https://apps.
 
 ![moviemaker](/images/moviemake.png)
 
-Windows Movie Maker is a discontinued but still perfectly fine video editor from Microsoft. It is very basic, but it's free of charge. It's basically iMovie but iMovie is a little bit more advanced and better Ui and UX. 
+Windows Movie Maker is a discontinued but still perfectly fine video editor from Microsoft. It is very basic, but it's free of charge. It's basically iMovie but iMovie is a little bit more advanced and better UI and UX. 
 
 ### Pros
 - Free of charge
@@ -102,7 +102,7 @@ Download: Not available to download anymore
 
 ![Bad](/images/worst.jpg)
 
-Movie Maker is a video editor made by V3TApps and it is the worst thing I've ever used, this thing is worse than Flimora. It is available on the Microsoft Store, You basically should never use this thing, just use Resolve or Kdenlive for a lower-powered PC. i'm gonna list some pros and cons anyways
+Movie Maker is a video editor made by V3TApps and it is the worst thing I've ever used, this thing is worse than Flimora. It is available on the Microsoft Store, You basically should never use this thing, just use Resolve or Kdenlive for a lower-powered PC. I'm gonna list some pros and cons anyways
 
 ### Pros
 - Easily downloadable from the Microsoft Store, without having to hunt and search online
@@ -118,4 +118,4 @@ Download: [https://apps.microsoft.com/store/detail/movie-maker-video-editor/9MVF
 
 ## Conclusion
 
-Well, this is all the video editors I've used. There are quite a few that I haven't such as Blender, Final Cut Pro, OpenShot, Shotcut, Flowblade, Flimora (I've used it but not in huge amounts), or Capcut (Probably never gonna use this one, but as of right now? I like Resolve and Kdenlive, and I think it's what you should use when you started to find which video editor you should use. What's your opinion though?
+Well, this is all the video editors I've used. There are quite a few that I haven't such as Blender, Final Cut Pro, OpenShot, Shotcut, Flowblade, Flimora (I've used it but not in huge amounts), or Capcut (Probably never gonna use this one), but as of right now? I like Resolve and Kdenlive, and I think it's what you should use when you started to find which video editor you should use. What's your opinion though?
