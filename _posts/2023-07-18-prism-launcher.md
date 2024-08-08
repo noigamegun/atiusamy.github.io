@@ -39,7 +39,7 @@ If you use Linux, use the PrismLauncher Flatpak and be very careful
 of what you give it access to through utilities such as Flatseal.
 By default, it has no access to the needed directories to compromise
 the system. Other sandbox escapes may be possible, but the malware
- most likely doesn't account for running inside of a sandbox of this sort.
+most likely doesn't account for running inside of a sandbox of this sort.
 ```
 
 so, I decided that y’know what going forward, I’m using the Flatpak version. There is a repackaged Minecraft Launcher in Flathub, but it signs you out every time, so it’s annoying. I decide to switch to Prism Launcher instead.
