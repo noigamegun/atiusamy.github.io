@@ -23,13 +23,13 @@ It made the Old Macbook actually usable, and Ubuntu Yaru icons look really reall
 
 ## Why Switch?
 
-I wanted to not use Windows, Windows feels janky and has soooo many issues. (Keep in mind I use a real Windows Pro License)
+I don't want use Windows, Windows feels janky and has soooo many issues. (Keep in mind I use a real Windows Pro License)
 
 ### Downloading Files
 
 I often had this issue where I download stuff that isn't from Google Drive, and I keep getting this issue where it wanted me to resume, It's super annoying. I tried solving the issue and it just never works so....
 
-### Minecraft Java Server disconnect
+### Minecraft Java server disconnect
 
 Same thing here, tried solving the issue. It's super annoying. You can go look at my off-episodes unlisted videos and see how often this happens. 
 
@@ -71,7 +71,7 @@ Gonna admit it here, I don't completely rely on Premiere Pro. I was finding for 
 
 ## Solution
 
-There will always be a solution to each problem!(apparently) so, let's go into it
+There will always be a solution to each problem!(apparently) so, let's go into it!
 
 ### Minecraft Bedrock
 
@@ -88,13 +88,13 @@ This is a tricky one, I use LINE on Wine which is an "almost perfect" after a fe
 
 ### Paint.net
 
-I never got Paint.net working on Linux even with WINE, I've also tried Pinta which is a Paint.net clone but it uses GTK. It's fine but I can't even resize things (For some reason) so I just never used it for a long period of time. There is also GIMP, I don't really like it, it felt weird. What I use now though is Krita. It is an amazing KDE app that can also be used for photo manipulation if you want. 
+I never got Paint.net working on Linux even with WINE, I've also tried Krita which is a Paint.net clone but it uses GTK. It's fine but I can't even resize things (For some reason) so I just never used it for a long period of time. There is also GIMP, I don't really like it, it felt weird. What I use now though is Krita. It is an amazing KDE app that can also be used for photo manipulation if you want. 
 
 ![krita](/images/Krita.png)
 
 ### Premiere Pro
 
-Of course, I switched to Kdenlive. It's a really good FOSS app (If you want to see me type more about video editors, check out this [blog](https://atiusamy.github.io/video-editor/)) It also goes a long really well with Krita. However, I don't use Kdenlive anymore as the playback is laggy, so yeah :/ I now use Davinci Resolve. I love Resolve it's a nice program, it is not open-source though
+Of course, I switched to Kdenlive. It's a really good FOSS app (If you want to see me type more about video editors, check out this [blog](https://atiusamy.github.io/video-editor/)) It also goes along really well with Krita. However, I don't use Kdenlive anymore as the playback is laggy, so yeah :/ I now use Davinci Resolve. I love Resolve it's a nice program, it is not open-source though
 
 ![resolve](/images/Resolve.png)
 
@@ -108,13 +108,13 @@ I've used a couple of DEs but many I haven't daily drived it: KDE, Cinnamon, Pan
 
 GNOME is one of the best DE ever, with a consistent look and dark mode (hooray!) I am using GNOME right now, and it is also the first Desktop I've used and I think I like it, My setup is basically Vanilla GNOME with some extensions like Blur My Shell.
 
-![premiere](/images/GNOME.png)
+![gnome](/images/GNOME.png)
 
 #### Budgie
 
 As someone who has a Budgie profile picture, I would be drawn to this desktop. It's a very good and customizable desktop that uses the GNOME technologies I only switched to GNOME because I wanted Wayland. I have set up a Mac-like DE.
 
-![premiere](/images/Budgie.png)
+![budgie](/images/Budgie.png)
 
 ### Distro
 
@@ -124,27 +124,26 @@ Of course, I've daily drive a couple distro, so let's get right into it.
 
 Ah Ubuntu, Where would I be without you? This is still a solid Linux Distribution. I don't really like snaps though, they're not the worst but compare to Flatpak. It's not very good, you can always install Flatpak. Ubuntu LTS is also a very stable distribution, Ubuntu non-LTS is also stable but not as stable. Overall, I think it's a nice distro
 
-![premiere](/images/ubuntude.png)
+![ubuntu](/images/ubuntude.png)
 
 #### Fedora
 
 I am using Fedora Silverblue on my Laptop. I love Fedora, you get newer stuff while still maintaining stability. Silverblue is also very good, you can swap images in case things broke but things usually don't break. It's nice!
 
-![premiere](/images/fedora.png)
+![fedora](/images/fedora.png)
 
 #### Nobara
 
 Nobara is essentially Fedora with extra patches. I use it on my desktop as it makes installing Resolve easier on AMD. I really have nothing much else to say, I think it's good although you'll get a later upgrade than Fedora (I just got GNOME 44 for ex.)
 
-![premiere](/images/GNOME.png)
+![nobara](/images/GNOME.png)
 
 #### FydeOS
 
 I used to use this "distro" because it supports running Linux and Android apps so I can use Minecraft Bedrock, there are some issues though. Minecraft Bedrock on there isn't perfect, I can't even put on a custom skin. Linux apps are also in a VM and that's super annoying. I don't use much Android App compared to Linux apps. While the performance is somewhat okay, Minecraft with shaders just don't work.
 
-![premiere](/images/FydeOS.png)
+![fyde](/images/FydeOS.png)
 
 ## Will I continue using Linux?
 
 Absolutely, I was never a Windows fan. I always hated Windows since forever, I used to use MacOS and I only use Windows because I wanted to use other hardware so Windows was my choice. I think I will continue using Linux as there is not a strong enough reason for me to use other OS. (Maybe MacOS) I think the future of Linux desktop in LibAdwaita, Flatpak, Proton, and Wayland is going to be bright. I have already moved a couple of people to Linux and they loved it! This will be it though!
-
